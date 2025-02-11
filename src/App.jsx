@@ -1,11 +1,10 @@
 import React from "react";
-import Random from "./component/Randomcolor/Random";
-
+import Accoedion from "./component/accordion/Accoedion";
 const App = () => {
   return (
     <div>
       <div>
-        <Random />
+        <Accoedion />
       </div>
     </div>
   );
